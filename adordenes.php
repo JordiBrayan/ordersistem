@@ -33,7 +33,7 @@
         </div>
     </div>
 
-    <!-- ***** area para buscar algo en el menu ***** -->
+    <!-- ***** área para buscar algo en el menú ***** -->
     <div class="caviar-search-form d-flex align-items-center">
         <div class="container">
             <div class="row">
@@ -196,7 +196,7 @@
                     <div class="footer-text">
                         <img class="navbar-brand" src="img/logo.png" width="190" height="170">
                         <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-                        <p>Realiza tu orden con nosotros!!!</p>
+                        <p>¡Realiza tu orden con nosotros!</p>
                         <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
                     </div>
                 </div>
