@@ -111,7 +111,7 @@
                    
                     <th>No.</th>
                     <th>Nombre</th>
-                    <th>Descripcion</th>
+                    <th>Descripción</th>
                     <th>Precio</th>
                     <th>Eliminar</th>
                    
@@ -170,7 +170,7 @@
                    
                     <th>No.</th>
                     <th>Nombre</th>
-                    <th>Descripcion</th>
+                    <th>Descripción</th>
                     <th>Precio</th>
                     <th>Eliminar</th>
                    
@@ -229,7 +229,7 @@
                    
                     <th>No.</th>
                     <th>Nombre</th>
-                    <th>Descripcion</th>
+                    <th>Descripción</th>
                     <th>Precio</th>
                     <th>Eliminar</th>
                    
